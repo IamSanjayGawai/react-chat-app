@@ -1,5 +1,4 @@
-Demo: https://github.com/IamSanjayGawai/react-chat-app
-
+Demo: https://reactjs-chat-app-test.netlify.app/#/
 
 # Getting Started with Create React App
 
